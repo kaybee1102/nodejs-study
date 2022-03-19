@@ -4,4 +4,4 @@ services:
     build: .
     tty: true
     volumes:
-      - .:/nodejs-study
+      - .:/intro-curriculum-3001
